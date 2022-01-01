@@ -1,0 +1,57 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;    
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 382px;  
+        height: 100px;
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:	#87CEFA;  
+        border-radius: 15px ;  
+          
+} 
+h2{  
+    text-align: center;  
+    color: #277582;  
+}  
+h1,h3{
+	text-align:center;
+	color:black;
+}
+#h{
+	text-align:left;
+	color:#0000FF;
+	background:#DCDCDC;
+	padding:20px;
+}
+label{  
+    color: #db170d;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 45px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+span{
+	color:#FF8C00;
+}
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;  
+    background:#0000FF;
+  
+  
+}  
+ 
